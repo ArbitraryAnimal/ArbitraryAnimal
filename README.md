@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ArbitraryAnimal
-- 👀 I’m interested in ... 
-- 🌱 I never stop learning ... 
-- 💞️ I’m looking to collaborate on ... Nothing/Everything
-- 📫 How to reach me ... ArbitraryAnimal@protonmail.com / Twitter.com / Telegram
+- 👋 Hi
+-  I’m @ArbitraryAnimal
+- 👀 I’m interested
+- 
+- 💞️ I’m looking to collaborate
+- 
+- 📫 How to reach me ... ArbitraryAnimal@protonmail.com
+
+
 
 <!---
 ArbitraryAnimal/ArbitraryAnimal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
