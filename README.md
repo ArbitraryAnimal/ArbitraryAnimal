@@ -1,10 +1,9 @@
-- 👋 Hi
--  I’m @ArbitraryAnimal
+- 👋 Hi I’m @ArbitraryAnimal
 - 👀 I’m interested
 - 
-- 💞️ I’m looking to collaborate
+- 💞️\\looking to collaborate
 - 
-- 📫 How to reach me ... ArbitraryAnimal@protonmail.com
+- 📫 How to reach me  ArbitraryAnimal@protonmail.com /
 
 
 
